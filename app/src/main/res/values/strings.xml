@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Media Player</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="forward">+10s</string>
+    <string name="backward">-10s</string>
+    <string name="next">Next track</string>
+    <string name="previous">Previous track</string>
+    <string name="notification_title">Notification title</string>
+    <string name="notification_message">Notification  message</string>
+    <string name="ticker_text">Ticker text</string>
+    <string name="play_icon_description">Ikona uruchomienia piosenki</string>
+    <string name="pause_icon_description">Ikona zapauzowania piosenki</string>
+    <string name="stop_icon_description">Ikona resetu piosenki</string>
+    <string name="forward_icon_description">Ikona przewinięcia o 10s</string>
+    <string name="backward_icon_description">Ikona cofnięcia o 10s</string>
+    <string name="next_icon_description">Ikona przewinięcia piosenki</string>
+    <string name="previous_icon_description">Ikona cofnięcia piosenki</string>
+</resources>
